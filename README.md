@@ -5,7 +5,7 @@
 
 <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=alidarcan" alt="alidarcan" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/alidarcn" target="blank"><img src="https://img.shields.io/twitter/follow/alidrcan?logo=twitter&style=for-the-badge" alt="alidarcn" /></a> </p>
+<p align="left"> <a href="https://twitter.com/alidarcn" target="blank"><img src="https://img.shields.io/twitter/follow/alidarcn?logo=twitter&style=for-the-badge" alt="alidarcn" /></a> </p>
 
 - 🔭 I’m currently working on [Front-End Web Development Bootcamp](https://www.kodluyoruz.org/)
 
