@@ -28,7 +28,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/alidarcan" target="blank"><img align="center" src="https://svgshare.com/i/gx6.svg" alt="alidarcan" height="30" width="40" /></a>
-<a href="https://twitter.com/alidrcan" target="blank"><img align="center" src="https://svgshare.com/i/gw_.svg" alt="alidrcan" height="30" width="40" /></a>
+<a href="https://twitter.com/alidarcn" target="blank"><img align="center" src="https://svgshare.com/i/gw_.svg" alt="alidarcn" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/alidarcan" target="blank"><img align="center" src="https://svgshare.com/i/gx_.svg" alt="alidarcan" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/18505694" target="blank"><img align="center" src="https://svgshare.com/i/gwr.svg" alt="18505694" height="30" width="40" /></a>
 <a href="https://instagram.com/darcanali" target="blank"><img align="center" src="https://svgshare.com/i/gvz.svg" alt="darcanali" height="30" width="40" /></a>
