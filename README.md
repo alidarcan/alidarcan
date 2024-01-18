@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **Front-End Web Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/alidarcan?tab=repositories](https://github.com/alidarcan?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://www.alidarcan.com/#projects](https://www.alidarcan.com/#projects)
 
 - 📝 I regularly write articles on [https://addressofmusic.wordpress.com/](https://addressofmusic.wordpress.com/)
 
