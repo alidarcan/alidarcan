@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Front-End Web Development](https://www.alidarcan.com/)
 
-- 🌱 I’m currently learning **Python, HTML5, CSS3, JavaScript, Bootstrap**
+- 🌱 I’m currently learning **AngularJS, TypeScript, ReactJS, PostgreSQL, Python**
 
 - 👯 I’m looking to collaborate on **Front-End Web Development**
 
@@ -19,7 +19,7 @@
 
 - 📝 I regularly write articles on [https://addressofmusic.wordpress.com/](https://addressofmusic.wordpress.com/)
 
-- 💬 Ask me about **Python, HTML5, CSS3, JavaScript, Bootstrap**
+- 💬 Ask me about **HTML, CSS, JavaScript, NodeJS, ExpressJS, JQuery, EJS, Bootstrap, Axios**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/alidarcan/](https://www.linkedin.com/in/alidarcan/)
 
@@ -43,7 +43,11 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/></a> 
 <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img align="center" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/jquery_vertical_logo_icon_169489.png" alt="jquery" width="50" height="50"/></a> 
 <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png" alt="node" width="" height="50"/></a> 
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img align="center" src="https://cdn.worldvectorlogo.com/logos/express-109.svg" alt="express" width="" height="50"/></a> 
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img align="center" src="https://cdn.worldvectorlogo.com/logos/express-109.svg" alt="express" width="" height="30"/></a> 
+<a href="https://angular.io/" target="_blank" rel="noreferrer"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/512px-Angular_full_color_logo.svg.png" alt="angular" width="" height="50"/></a> 
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Typescript.svg/260px-Typescript.svg.png?20230616215448" alt="typescript" width="" height="50"/></a> 
+<a href="https://react.dev/" target="_blank" rel="noreferrer"><img align="center" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="react" width="" height="50"/></a> 
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img align="center" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-vertical.svg" alt="postgresql" width="" height="50"/></a> 
 <a href="https://ejs.co/" target="_blank" rel="noreferrer"><img align="center" src="https://www.svgrepo.com/show/373574/ejs.svg" alt="ejs" width="" height="50"/></a> 
 <a href="https://axios-http.com/docs/intro" target="_blank" rel="noreferrer"><img align="center" src="https://cdn.worldvectorlogo.com/logos/axios.svg" alt="axios" width="70" height=""/></a> 
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img align="center" src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="postman" width="50" height=""/></a> 
